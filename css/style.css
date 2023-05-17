@@ -1,0 +1,61 @@
+
+.sapphire{
+    background-color: #065a82;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.gray{
+    background-color: #e5e2f3;
+}
+
+.beaver{
+    background-color: #a18276;
+}
+
+.textWhite{
+    color: white;
+}
+
+.textSapphire{
+    color: #065a82;
+}
+
+.textBlack{
+    color: black;
+}
+
+.textGray{
+    color: #e5e2f3;
+}
+
+.textBeaver{
+    color: #a18276;
+}
+
+.img-index{
+   background-image: url(../img-liz/background-index.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+} 
+
+.contactmessage{
+    height: 110px;
+}
+
+.error{
+    border: 1px solid red;
+}
+
+
+.scroll {
+overflow-block: hidden;
+}
+

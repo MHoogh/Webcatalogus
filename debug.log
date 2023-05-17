@@ -1,0 +1,4 @@
+[0214/120500.249:ERROR:registration_protocol_win.cc(106)] CreateFile: Het systeem kan het opgegeven bestand niet vinden. (0x2)
+[0214/120509.630:ERROR:registration_protocol_win.cc(106)] CreateFile: Het systeem kan het opgegeven bestand niet vinden. (0x2)
+[0217/111955.965:ERROR:registration_protocol_win.cc(106)] CreateFile: Het systeem kan het opgegeven bestand niet vinden. (0x2)
+[0217/113636.429:ERROR:registration_protocol_win.cc(106)] CreateFile: Het systeem kan het opgegeven bestand niet vinden. (0x2)
